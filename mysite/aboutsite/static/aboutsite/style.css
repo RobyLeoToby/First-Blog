@@ -1,0 +1,9 @@
+body {
+    background: white url("img/bg-masthead.png") 10%  no-repeat fixed;
+}
+
+<style>
+background {
+  opacity: 0.5;
+}
+</style>
